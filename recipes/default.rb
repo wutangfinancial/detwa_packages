@@ -18,3 +18,6 @@ end
 package ['unattended-upgrades'] do
 	  action :upgrade
 end
+package ['unzip'] do
+	  action :upgrade
+end
